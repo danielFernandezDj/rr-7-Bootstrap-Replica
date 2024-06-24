@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.hover-buttons-list {
+  box-shadow: 0px 0px 15px #d4d4d4;
+}
+
+.hover-buttons-list:hover {
+  box-shadow: 0px 0px 15px #ababab;
+}
